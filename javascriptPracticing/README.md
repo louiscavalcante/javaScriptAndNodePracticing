@@ -1,0 +1,2 @@
+# javascriptPracticing
+Practicing JavaScript

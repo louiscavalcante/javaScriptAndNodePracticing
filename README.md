@@ -1,2 +1,2 @@
-# nodePracticing
-Practicing NodeJS
+# javaScriptAndNodePracticing
+Practicing JavaScript and NodeJS
